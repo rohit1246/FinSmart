@@ -125,3 +125,13 @@ button{
   color: #c0392b;
   font-weight: bold;
 }
+
+.main-title{
+  text-align: center;
+  font-size: 46px;
+  font-family: fantasy;
+  border: 5px solid gainsboro;
+  background-color: yellow;
+  margin: 26px;
+  border-radius: 20px;
+}
